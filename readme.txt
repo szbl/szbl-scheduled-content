@@ -18,7 +18,7 @@ This plugin
 
 1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Use [szbl_scheduled_content start="January 1, 2013" end=""]
+1. Use [szbl_scheduled_content start="January 1, 2013" end="January 15, 2013"]
 
 == Frequently asked questions ==
 
